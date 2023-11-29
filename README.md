@@ -29,7 +29,7 @@ python3 main.py
 | 1       | 0       | 0      |
 | 1       | 1       | 1      |
 
-## Porta OR
+### Porta OR
 
 | Input 1 | Input 2 | Output |
 | ------- | ------- | ------ |
@@ -38,7 +38,7 @@ python3 main.py
 | 1       | 0       | 1      |
 | 1       | 1       | 1      |
 
-## Porta NAND
+### Porta NAND
 
 | Input 1 | Input 2 | Output |
 | ------- | ------- | ------ |
@@ -48,7 +48,7 @@ python3 main.py
 | 1       | 1       | 0      |
 
 
-## Porta XOR (em uma das rodadas)
+### Porta XOR (em uma das rodadas)
 
 | Input 1 | Input 2 | Output (Predicted) | Output (True) |
 | ------- | ------- | ------------------- | ------------- |

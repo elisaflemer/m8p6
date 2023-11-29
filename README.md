@@ -59,3 +59,8 @@ python3 main.py
 
 A porta XOR é um exemplo clássico de um problema que não pode ser resolvido por um único perceptron. Isso ocorre porque a relação entre as entradas e a saída da porta XOR não é linearmente separável. Ou seja, não é possível desenhar uma única linha reta para separar os 0 dos dos 1 no espaço de entrada 2D. Uma comparação entre o plano do XOR e o das outras portas pode ser vista abaixo.
 
+![xoe](https://github.com/elisaflemer/m8p6/assets/99259251/0ed9d915-3cf5-408f-8b93-851f6ada75da)
+
+
+## Demo
+[p6.webm](https://github.com/elisaflemer/m8p6/assets/99259251/e6bea03d-36d4-40ef-88f8-fc211bcc83ad)
